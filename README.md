@@ -28,7 +28,8 @@ y
 
 ## 3. 安装 n
 ```
-npm install n -g   
+npm install n -g
+n latest    安装最新版本
 n stable    安装稳定版本
 n 7.5.0
 ```
